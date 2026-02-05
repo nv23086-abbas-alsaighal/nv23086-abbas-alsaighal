@@ -15,7 +15,7 @@ A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
 - 🌱 I’m currently exploring JAVA with a big interest in JAVA applets and Data Structures and Algorithms. 
 - 🤔 My interest lies in front end web development.
 - 💬 Ask me about anything, I love to answer!
-- 📫 Email me at [Outlook](mailto:nv23086@ncst.edu.bh).
+- 📫 Email me at [Outlook-nv23086@ncst.edu.bh](mailto:nv23086@ncst.edu.bh).
 
 
 
